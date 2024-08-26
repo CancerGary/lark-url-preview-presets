@@ -1,5 +1,5 @@
 {
-  "time": 1724660892603,
+  "time": 1724664503339,
   "result": [
     {
       "name": "奥特曼拼图",
@@ -1827,6 +1827,402 @@
           "withNewLine": false
         }
       ]
+    },
+    {
+      "name": "黑神话：悟空黑色版本",
+      "images": [
+        {
+          "key": "img_v3_02e1_b1ed7302-619e-4dc8-96ee-55265a6b48eg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_619b2e6d-4847-455e-920f-ff286d5a133g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_ef1d255b-2943-4464-85ca-9fc5126456eg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_a90a969b-3c70-4e31-a352-4356cadc4e4g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_972f8d5a-a75a-443a-9953-5d429875663g",
+          "description": "",
+          "withNewLine": true
+        },
+        {
+          "key": "img_v3_02e1_b3380b7e-951a-4ff2-80c7-5b781a9c1bdg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_b5eda152-6323-4ad7-a3c2-5839d771440g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_a54dd2cf-7643-47e6-86b3-291d7d656abg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_9bcee0e7-a4f4-4b26-96d6-55390d855c4g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_47c9cd5c-d542-43f7-bd9b-693f65e420dg",
+          "description": "",
+          "withNewLine": true
+        },
+        {
+          "key": "img_v3_02e1_1f7dfa1a-9d91-4f44-ac19-44a65137813g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_4bd7328a-d315-41f6-8696-9c29b3b6cfeg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_11cdbeb8-b39d-4b4f-8038-5dbc55331e5g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_5d91aed4-0296-48cd-84fb-a86645370d6g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_1c72456f-aada-48ae-9bd4-a0d89e9b17ag",
+          "description": "",
+          "withNewLine": true
+        },
+        {
+          "key": "img_v3_02e1_01c91b28-cd33-48bf-86c4-7f506c8a4e0g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_e3694916-1d57-44ed-baa9-28955dd987eg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_0b7eaccb-0af0-49c5-a061-866941237aeg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_2da089d1-0714-4529-b5c1-2f3c9b5f5c5g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_2c223a26-623f-41b8-9ae6-b32fb27e263g",
+          "description": "",
+          "withNewLine": true
+        },
+        {
+          "key": "img_v3_02e1_b0a56ee8-17ac-4f58-9a2a-64aa4af31b3g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_68123869-aed0-4dc8-8400-d68cac2c85fg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_f45ad6ab-5c0f-4d4f-b1d1-1b4380a2ab1g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_8fbdb841-47a1-402c-b5bc-39fcff2c5b1g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_f4853e3c-cd49-4c44-a3ba-caabdeb482fg",
+          "description": "",
+          "withNewLine": true
+        }
+      ],
+      "multiOnly": true,
+      "isSlogan": true
+    },
+    {
+      "name": "黑神话：悟空蓝色版本",
+      "images": [
+        {
+          "key": "img_v3_02e1_c0f9407b-2d91-4a4a-a408-2a84359305bg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_3c8fa078-7144-4d6e-86bf-b5f8e068059g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_14c7cea1-cd19-4140-ac34-185c441e3efg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_894b9c2e-1067-4235-be05-0db5c669cf0g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_ab7a03e3-5239-49d4-98bf-1e427e2791dg",
+          "description": "",
+          "withNewLine": true
+        },
+        {
+          "key": "img_v3_02e1_7956ab67-6d5e-4a39-a76a-ef1496ffdf1g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_e4b4b25d-6731-4f73-b989-b3a36a1f8a6g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_a5d4d4d0-9288-4d2a-a71c-e72d870d3f0g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_88f6eaea-5c62-404b-9d35-ab385550c6cg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_f962199b-78ce-4c2c-821e-df7e0de4c7ag",
+          "description": "",
+          "withNewLine": true
+        },
+        {
+          "key": "img_v3_02e1_37aa5e41-558b-46be-b36a-a2db1b4bc9fg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_5d01183a-c6c9-42f8-be18-4bb6ee05316g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_62b2f4d9-8347-4255-9923-1d5e8e40440g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_7c4a0292-c5c7-400f-b7a6-4e56981cafcg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_66afc764-f8ea-4257-8f9f-4522da66967g",
+          "description": "",
+          "withNewLine": true
+        },
+        {
+          "key": "img_v3_02e1_e1e58198-c9f0-4af3-bbd4-1798b6e8b0ag",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_715bb34b-666d-4c54-a706-c4ef7ad948fg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_248ab90b-c3ce-4bf8-93bd-ac2f549d039g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_64b2800b-3d1b-41c8-ba9b-28807d71c5dg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_b30c4aea-0501-4b85-bdef-08bf25ad44ag",
+          "description": "",
+          "withNewLine": true
+        },
+        {
+          "key": "img_v3_02e1_cd142607-318c-45ab-ac93-0e487179938g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_8803c9cc-b50d-4628-9a41-be365c2daefg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_f5ea179b-c98b-4daf-a0f7-566b60a531dg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_fc99f93d-9d1b-4adc-8ade-342fb340251g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_73f566fa-abe6-49df-8988-ba63f9cc097g",
+          "description": "",
+          "withNewLine": true
+        }
+      ],
+      "multiOnly": true,
+      "isSlogan": true
+    },
+    {
+      "name": "齐天大圣蓝色版本",
+      "images": [
+        {
+          "key": "img_v3_02e1_8c856c8d-110a-4f5a-8f7c-0bc0bc5be93g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_3a88da9e-78d4-42e8-80fe-2507d1f1bceg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_838b147f-10e6-43ea-b0a8-952c77fb21cg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_dc05a29e-10e9-4341-8e62-eaec2b05dfcg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_1de87ce6-82ac-4702-a95c-277eb67a8cdg",
+          "description": "",
+          "withNewLine": true
+        },
+        {
+          "key": "img_v3_02e1_4c4fd698-6522-482e-954c-b2ec0c5843dg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_585d5f39-286e-4d4d-84d6-a8bb8f04f47g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_2f233e83-bfec-483d-8d1e-2e01026c9a5g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_881ca870-8d7a-4a8a-b2dc-a82eaa1d4e5g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_88747c2f-a380-4e20-8e73-f81d90724f2g",
+          "description": "",
+          "withNewLine": true
+        },
+        {
+          "key": "img_v3_02e1_2dcea60a-a5a8-400e-914d-2e4effe2723g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_e27d10bd-b35a-4552-9e1d-3cde2799afcg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_c5aaae50-1bb5-4ac9-aa56-811d847b844g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_d520dedb-37f9-4ef2-8c66-8fbc68b9bd6g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_e09e8845-6bad-4413-847a-acc8355f718g",
+          "description": "",
+          "withNewLine": true
+        },
+        {
+          "key": "img_v3_02e1_c1160181-ee5a-4b57-9d5d-02324ce2d95g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_d2ab7ee4-65e9-4dd5-90a7-338969e3ab5g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_8d451212-7635-4d57-86d6-1d79938bfa6g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_e0c747e4-8596-4854-9be2-c9113fff5d2g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_e6d2fe14-5f1a-4b63-ba0f-275ae4ac7feg",
+          "description": "",
+          "withNewLine": true
+        },
+        {
+          "key": "img_v3_02e1_1983e7c2-5b41-417d-88e3-0af1036121fg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_b4bdc321-a1bb-4dd7-bcbe-f830a01f2ceg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_3f673df0-45e4-4f8a-abbb-51230b64329g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_87d9c751-7874-4c70-81d1-adb44f9f029g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_ce91cf23-d09d-4723-a7b3-d7997b7617ag",
+          "description": "",
+          "withNewLine": true
+        }
+      ],
+      "multiOnly": true,
+      "isSlogan": true
     },
     {
       "name": "Happy Cat",
