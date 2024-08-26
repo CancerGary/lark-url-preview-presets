@@ -1,5 +1,5 @@
 {
-  "time": 1724656955098,
+  "time": 1724660892603,
   "result": [
     {
       "name": "奥特曼拼图",
@@ -130,7 +130,8 @@
           "withNewLine": false
         }
       ],
-      "multiOnly": true
+      "multiOnly": true,
+      "isSlogan": true
     },
     {
       "name": "奥特曼专区",
