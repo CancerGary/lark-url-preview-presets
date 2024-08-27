@@ -1,5 +1,5 @@
 {
-  "time": 1724670174203,
+  "time": 1724730654132,
   "result": [
     {
       "name": "奥特曼拼图",
@@ -1889,7 +1889,7 @@
         {
           "key": "img_v3_02e1_f4853e3c-cd49-4c44-a3ba-caabdeb482fg",
           "description": "",
-          "withNewLine": true
+          "withNewLine": false
         }
       ],
       "multiOnly": true,
@@ -2021,7 +2021,7 @@
         {
           "key": "img_v3_02e1_73f566fa-abe6-49df-8988-ba63f9cc097g",
           "description": "",
-          "withNewLine": true
+          "withNewLine": false
         }
       ],
       "multiOnly": true,
@@ -2153,7 +2153,7 @@
         {
           "key": "img_v3_02e1_ce91cf23-d09d-4723-a7b3-d7997b7617ag",
           "description": "",
-          "withNewLine": true
+          "withNewLine": false
         }
       ],
       "multiOnly": true,
@@ -5703,6 +5703,138 @@
           "withNewLine": false
         }
       ]
+    },
+    {
+      "name": "大狗头",
+      "images": [
+        {
+          "key": "img_v3_02e1_571dc385-c5e3-48a5-bc08-f1fde0c3b5dg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_33ac9ca5-28cb-42cc-9f31-0736af9dceeg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_ac9f0cea-9102-4d5c-9625-4ebda2336a0g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_03187f5a-8b89-4068-85ca-5e4552d766dg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_ad7d9abe-3b42-438b-8a74-002c350e441g",
+          "description": "",
+          "withNewLine": true
+        },
+        {
+          "key": "img_v3_02e1_1851df88-c9be-4b35-8b0d-0fb0fd33281g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_eed44d0c-4b26-47b6-b9be-d8c2e9943cbg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_18a41a1e-5b39-4a11-977f-b366f7bffa4g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_8393d2d1-12ca-4b21-b447-176546a4862g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_d53fef2d-c285-45f2-8869-7b1717c04d1g",
+          "description": "",
+          "withNewLine": true
+        },
+        {
+          "key": "img_v3_02e1_3b4b5cb5-3703-46a9-b165-ab4a3feea05g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_addc8a3c-4ef0-4255-9a30-87605826c15g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_a049fd27-5f11-4e9d-95e7-cdd9dc67e8eg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_d6f699f8-065e-4304-9e64-c0960c6981ag",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_c185cdcc-723a-45b3-9b84-6e943e4a1b0g",
+          "description": "",
+          "withNewLine": true
+        },
+        {
+          "key": "img_v3_02e1_a553785f-3cf9-42d3-9b77-ffad66d78c8g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_52d1d421-75b3-41f5-876a-29eb624d0d2g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_84c61322-d9bb-4df6-a317-d3c587b0d91g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_69478ae5-22a8-4c54-a787-e3f937f8633g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_5c0a8ca5-1643-43ef-a716-c2ec50df9fag",
+          "description": "",
+          "withNewLine": true
+        },
+        {
+          "key": "img_v3_02e1_55aa2709-4b75-4c03-a929-f5c3670d36dg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_631515ce-e7f5-4bfb-8894-e3b0d08f60fg",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_ab641e07-0c3f-407a-91d3-b682d5b5bf6g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_895cdff6-b5c0-4d2e-8778-8766722ba82g",
+          "description": "",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02e1_4c38d37e-4373-49df-adf4-7e7eaf1560cg",
+          "description": "",
+          "withNewLine": false
+        }
+      ],
+      "multiOnly": true,
+      "isSlogan": true
     },
     {
       "name": "𓆡𓆝𓆟𓆜 𓆞𓆝𓆟 𓆜𓆞",
