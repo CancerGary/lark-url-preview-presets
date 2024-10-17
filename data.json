@@ -1,5 +1,5 @@
 {
-  "time": 1729145187892,
+  "time": 1729156725355,
   "result": [
     {
       "name": "本  月  热  门",
@@ -6833,6 +6833,16 @@
     }
   ],
   "textPresetResult": [
+    {
+      "name": "表情+文案使用说明",
+      "presets": [
+        {
+          "value": "",
+          "description": "先点击“图标”，选择喜欢的表情，再点击文案预设里的文案。效果更好哦！",
+          "textOnly": true
+        }
+      ]
+    },
     {
       "name": "时间-距离给定时间点的差值 {{time_diff}}",
       "presets": [
