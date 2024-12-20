@@ -1,5 +1,5 @@
 {
-  "time": 1733390961477,
+  "time": 1734680589458,
   "result": [
     {
       "name": "本  月  热  门",
@@ -2268,6 +2268,51 @@
       ],
       "multiOnly": true,
       "isSlogan": true
+    },
+    {
+      "name": "圣诞节快乐",
+      "images": [
+        {
+          "key": "img_v3_02hn_223468c2-6b30-469f-91c4-8e067f67c0dg",
+          "description": "圣诞麋鹿 Christmas reindeer",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02hn_3bc256b3-faf2-4a98-9186-d5e2717e5adg",
+          "description": "圣诞树 Christmas tree",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02hn_242d34b7-ba61-41ea-97d2-99d47a6b4d7g",
+          "description": "圣诞礼物 Christmas Gift",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02hn_d7a9d545-3cb8-4c22-8d1d-6f31b5c0751g",
+          "description": "圣诞球 Christmas Ball",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02hn_b596b769-eeea-433d-85d6-7d602839b25g",
+          "description": "圣诞玩偶 Christmas Doll",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02hn_6a6cf284-6b82-424f-a756-98ae9dfc143g",
+          "description": "圣诞袜子 Christmas Stockings",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02hn_ccfb953c-d11e-4cec-9598-4057f0c2384g",
+          "description": "拐杖糖 Cane candy",
+          "withNewLine": false
+        },
+        {
+          "key": "img_v3_02hn_cbaf5bb7-c901-432b-936b-2523b65046ag",
+          "description": "圣诞老人 Santa Claus",
+          "withNewLine": false
+        }
+      ]
     },
     {
       "name": "摆烂一分钟",
